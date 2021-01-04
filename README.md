@@ -5,7 +5,7 @@ application that number plates in real time from an image
 using `haarcascade_russian_plate_number.xml` from opencv.
 
 ### Demo
-[![Watch the video](https://github.com/CrispenGari/face-detection-open-computer-version-python/blob/main/bandicam%202020-12-09%2018-38-25-346.jpg)](https://github.com/CrispenGari/face-detection-open-computer-version-python/blob/main/bandicam%202020-12-09%2018-32-49-471.mp4)
+[](https://github.com/CrispenGari/car-plates-detection-open-computer-vision/blob/main/images/bandicam%202021-01-04%2012-15-41-143.jpg)
 ### App capabilities.
 This app is cappable of:
 * detecting car number plates  in real time
